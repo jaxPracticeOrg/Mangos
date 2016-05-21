@@ -1,0 +1,49 @@
+
+html {
+  box-sizing: border-box;
+  
+}
+*, *:before, *:after {
+  
+  /*border: 1px solid hotpink;*/
+  
+}
+
+body {
+    margin: 5%;
+    background-color: black;
+}
+
+.fa-bars {
+    color: #ffaa40;
+    vertical-align: bottom;
+}
+
+a.page-scroll, a.dropdown-toggle {
+    color: #ffaa40;
+    text-align: right;
+    background-color: #e33f48;
+}
+
+.dropdown-menu>li>a {
+    /*text-decoration: none !important;*/
+    color: #ffaa40;
+    text-align: right;
+    background-color: #e33f48;
+
+}
+
+/*.nav .open>a, .nav .open>a:focus, .nav .open>a:hover
+ {
+    background-color: #e33f48;
+
+}*/
+.navbar-custom {
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(255,255,255,.3);
+
+}
+
+.filler {
+    height: 200px;
+}
